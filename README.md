@@ -1,2 +1,2 @@
 # Pahang-Maps
-Shapefiles, GeoJSON and Source Meta-datas for the state of Pahang
+Election Results + Demographics for the state of Pahang
